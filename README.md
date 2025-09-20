@@ -52,11 +52,7 @@ This project transforms raw hospital data into actionable insights, enabling hea
 
 ## 📷 Dashboard Preview
 
-
-<p align="center">
-  <img src="./img.jpeg" width="45%" />
-</p>
-
+![Dashboard Screenshot 1](./img.jpeg)
 
 ## 📌 Use Cases
 
